@@ -1,6 +1,6 @@
 {
   "name": "echo-models",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "Shared TypeScript models for the ECHO app",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
